@@ -32,7 +32,7 @@ C 一鍵效能報告        記憶體 + 磁碟 + 開機啟動項 + 大檔 Top 10
 ## 安裝（WorkBuddy）
 
 ```bash
-git clone <this-repo> ~/.workbuddy/skills/system-care
+git clone https://github.com/HuiHuan2813-art/system-care ~/.workbuddy/skills/system-care
 ```
 
 WorkBuddy 在工作階段啟動時掃描技能目錄，裝好後**開一個新對話**才會載入。
